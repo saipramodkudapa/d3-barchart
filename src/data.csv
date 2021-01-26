@@ -1,0 +1,251 @@
+name,age,value,wage,finishing,crossing,acceleration,shooting,passing,dribbling,international_reputation,work_rate,overall,nationality,skill_moves,position
+L. Messi,31,€110.5M,€565K,95,84,91,94,87,97,5,Medium/ Medium,94,Argentina,4,RF
+Cristiano Ronaldo,33,€77M,€405K,94,84,89,93,77,88,5,High/ Low,94,Portugal,5,ST
+Neymar Jr,26,€118.5M,€290K,87,79,94,82,78,96,5,High/ Medium,92,Brazil,5,LW
+L. Suárez,31,€80M,€455K,93,77,86,85,64,87,5,High/ Medium,91,Uruguay,3,RS
+Sergio Ramos,32,€51M,€380K,60,66,76,59,77,63,4,High/ Medium,91,Spain,3,RCB
+De Gea,27,€72M,€260K,13,17,57,12,51,18,4,Medium/ Medium,91,Spain,1,GK
+E. Hazard,27,€93M,€340K,84,81,94,80,83,95,4,High/ Medium,91,Belgium,4,LF
+L. Modrić,32,€67M,€420K,72,86,80,82,88,90,4,High/ High,91,Croatia,4,RCM
+K. De Bruyne,27,€102M,€355K,82,93,78,91,91,86,4,High/ High,91,Belgium,4,RCM
+J. Oblak,25,€68M,€94K,11,13,43,12,26,12,3,Medium/ Medium,90,Slovenia,1,GK
+D. Godín,32,€44M,€125K,42,55,68,43,70,53,3,Medium/ High,90,Uruguay,2,CB
+David Silva,32,€60M,€285K,76,84,70,75,87,89,4,High/ Medium,90,Spain,4,LCM
+T. Kroos,28,€76.5M,€355K,76,88,64,92,93,81,4,Medium/ Medium,90,Germany,3,LCM
+R. Lewandowski,29,€77M,€205K,91,62,77,84,65,85,4,High/ Medium,90,Poland,4,ST
+A. Griezmann,27,€78M,€145K,90,82,88,82,76,88,4,High/ High,89,France,4,CAM
+E. Cavani,31,€60M,€200K,89,70,75,79,52,80,4,High/ High,89,Uruguay,3,LS
+N. Kanté,27,€63M,€225K,65,68,82,69,81,79,3,Medium/ High,89,France,2,LDM
+M. ter Stegen,26,€58M,€240K,14,15,38,10,42,17,3,Medium/ Medium,89,Germany,1,GK
+S. Agüero,30,€64.5M,€300K,93,70,88,83,64,89,4,High/ Medium,89,Argentina,4,ST
+P. Dybala,24,€89M,€205K,84,82,87,88,75,92,3,High/ Medium,89,Argentina,4,LF
+T. Courtois,26,€53.5M,€240K,14,14,46,17,35,13,4,Medium/ Medium,89,Belgium,1,GK
+H. Kane,24,€83.5M,€205K,94,75,68,85,82,80,3,High/ High,89,England,3,ST
+Sergio Busquets,29,€51.5M,€315K,67,62,50,54,82,80,4,Medium/ Medium,89,Spain,3,CDM
+G. Chiellini,33,€27M,€215K,33,58,63,49,59,58,4,Medium/ High,89,Italy,2,LCB
+M. Neuer,32,€38M,€130K,13,15,54,16,59,30,5,Medium/ Medium,89,Germany,1,GK
+M. Hummels,29,€46M,€160K,55,64,53,51,85,68,4,High/ Medium,88,Germany,3,LCB
+G. Buffon,40,€4M,€77K,15,13,49,13,35,26,4,Medium/ Medium,88,Italy,1,GK
+K. Mbappé,19,€81M,€100K,88,77,96,78,73,90,3,High/ Medium,88,France,5,RM
+L. Insigne,27,€62M,€165K,77,86,94,84,78,90,3,High/ Medium,88,Italy,4,LW
+G. Higuaín,30,€57M,€245K,92,68,73,80,59,84,4,High/ Medium,88,Argentina,3,LS
+S. Handanovič,33,€30M,€110K,10,12,51,19,34,12,3,Medium/ Medium,88,Slovenia,1,GK
+P. Aubameyang,29,€59M,€265K,88,77,93,79,64,79,3,Medium/ Low,88,Gabon,4,LM
+C. Eriksen,26,€73.5M,€205K,80,88,75,89,88,84,3,High/ Medium,88,Denmark,4,CAM
+G. Bale,28,€60M,€355K,86,87,94,91,80,87,4,High/ Medium,88,Wales,4,ST
+Marcelo,30,€43M,€285K,70,90,83,70,76,90,4,High/ Low,88,Brazil,5,LB
+Coutinho,26,€69.5M,€340K,79,79,89,93,83,91,3,High/ High,88,Brazil,5,LW
+J. Rodríguez,26,€69.5M,€315K,83,90,73,92,83,85,4,Medium/ Medium,88,Colombia,4,LAM
+Isco,26,€73.5M,€315K,79,75,75,87,83,94,3,High/ Medium,88,Spain,4,LW
+Casemiro,26,€59.5M,€285K,59,52,59,79,82,69,3,Medium/ High,88,Brazil,2,CDM
+M. Salah,26,€69.5M,€255K,90,78,94,83,72,89,3,High/ Medium,88,Egypt,4,RM
+H. Lloris,31,€36M,€150K,10,13,65,14,50,10,4,Medium/ Medium,88,France,1,GK
+Thiago Silva,33,€24M,€165K,38,60,70,68,80,62,4,Medium/ High,88,Brazil,2,RCB
+K. Koulibaly,27,€51M,€115K,19,30,68,15,56,66,3,High/ High,87,Senegal,2,LCB
+D. Mertens,31,€45M,€135K,86,77,93,81,74,91,3,High/ Low,87,Belgium,4,RF
+C. Immobile,28,€52M,€115K,90,55,78,80,49,83,3,High/ Medium,87,Italy,3,ST
+J. Vertonghen,31,€34M,€155K,56,68,61,66,74,71,3,High/ High,87,Belgium,3,LCB
+I. Rakitić,30,€46.5M,€260K,83,84,66,90,90,84,4,High/ High,87,Croatia,3,RCM
+Jordi Alba,29,€38M,€250K,73,87,93,66,74,80,3,High/ Medium,87,Spain,3,LB
+R. Lukaku,25,€62.5M,€230K,87,78,77,74,73,80,3,Medium/ Medium,87,Belgium,3,ST
+S. Umtiti,24,€57M,€205K,51,69,71,74,73,69,3,Medium/ High,87,France,2,CB
+M. Icardi,25,€64.5M,€130K,91,46,77,70,54,77,3,Medium/ Low,87,Argentina,3,ST
+M. Hamšík,30,€46.5M,€125K,79,78,69,83,83,86,3,High/ Medium,87,Slovakia,3,LCM
+Piqué,31,€34M,€240K,64,57,49,51,80,59,4,High/ Medium,87,Spain,2,RCB
+K. Navas,31,€30.5M,€195K,15,11,54,13,37,16,3,Medium/ Medium,87,Costa Rica,1,GK
+P. Pogba,25,€64M,€210K,73,80,71,81,90,87,4,High/ Low,87,France,5,RDM
+L. Sané,22,€61M,€195K,81,83,93,78,64,88,2,High/ Medium,86,Germany,4,LW
+R. Varane,25,€50M,€210K,40,36,83,53,76,57,3,Medium/ High,86,France,2,RCB
+M. Verratti,25,€55M,€135K,60,72,69,58,89,90,3,Medium/ High,86,Italy,4,LCM
+Roberto Firmino,26,€53M,€195K,87,72,78,76,75,87,3,High/ High,86,Brazil,4,CAM
+Fernandinho,33,€18M,€185K,69,68,68,78,81,77,3,Medium/ High,86,Brazil,3,CDM
+Iniesta,34,€21.5M,€21K,70,77,70,71,85,90,4,High/ Medium,86,Spain,4,LF
+R. Sterling,23,€56.5M,€195K,77,77,95,73,69,88,3,High/ Medium,86,England,4,RW
+Azpilicueta,28,€35M,€175K,46,81,76,60,80,69,3,Medium/ Medium,86,Spain,2,RB
+M. Özil,29,€43.5M,€190K,73,83,72,75,82,84,4,Medium/ Low,86,Germany,4,CAM
+Alex Sandro,27,€36.5M,€160K,55,84,83,72,71,80,3,High/ High,86,Brazil,3,LB
+M. Benatia,31,€30M,€160K,47,45,65,24,65,64,3,Medium/ High,86,Morocco,2,CB
+T. Müller,28,€45M,€135K,87,79,73,80,72,75,4,High/ High,86,Germany,3,CAM
+Thiago,27,€45.5M,€130K,69,72,78,79,87,90,3,Medium/ Medium,86,Spain,5,CM
+M. Reus,29,€43.5M,€100K,87,79,86,86,75,87,4,High/ Medium,86,Germany,4,LM
+V. van Dijk,26,€44.5M,€165K,52,53,74,64,78,70,3,Medium/ Medium,86,Netherlands,2,LCB
+T. Alderweireld,29,€39M,€150K,45,64,61,65,85,62,3,Medium/ Medium,86,Belgium,2,RCB
+M. Pjanić,28,€44M,€180K,60,80,66,82,85,86,3,Medium/ Medium,86,Bosnia Herzegovina,3,CDM
+Ederson,24,€41.5M,€125K,14,20,64,18,58,23,2,Medium/ Medium,86,Brazil,1,GK
+Bernardo Silva,23,€59.5M,€180K,75,85,84,72,79,92,2,High/ Medium,86,Portugal,4,RW
+Douglas Costa,27,€46.5M,€175K,67,84,97,80,68,92,3,High/ Medium,86,Brazil,5,LM
+L. Bonucci,31,€30M,€160K,48,44,57,65,85,69,3,Low/ High,86,Italy,2,RCB
+S. Mané,26,€52M,€195K,84,73,95,74,71,87,3,High/ Medium,86,Senegal,4,LM
+Naldo,35,€9M,€38K,57,45,60,82,70,60,3,Medium/ Medium,85,Brazil,2,CB
+Miranda,33,€15.5M,€96K,43,48,66,41,69,67,3,Medium/ High,85,Brazil,2,CB
+R. Mahrez,27,€40.5M,€205K,80,81,88,81,76,91,3,Medium/ Medium,85,Algeria,5,RW
+V. Kompany,32,€22M,€170K,45,61,52,55,66,63,4,Medium/ High,85,Belgium,2,CB
+Parejo,29,€37M,€66K,79,84,51,82,87,78,2,Medium/ Low,85,Spain,3,RCM
+N. Otamendi,30,€28.5M,€170K,54,52,57,56,72,51,3,High/ High,85,Argentina,2,CB
+A. Vidal,31,€26M,€205K,75,76,60,85,79,76,4,Medium/ Medium,85,Chile,3,CAM
+Y. Brahimi,28,€39M,€28K,76,79,87,76,72,93,3,High/ Medium,85,Algeria,4,LM
+Filipe Luís,32,€21.5M,€81K,59,86,76,60,77,77,3,High/ Medium,85,Brazil,3,LB
+D. Alaba,26,€38M,€110K,63,81,79,82,80,79,4,High/ Medium,85,Austria,3,LB
+Z. Ibrahimović,36,€14M,€15K,86,73,58,82,73,79,5,Medium/ Low,85,Sweden,5,RS
+Alisson,25,€36.5M,€115K,13,17,54,14,44,27,3,Medium/ Medium,85,Brazil,1,GK
+I. Perišić,29,€37.5M,€110K,79,83,84,79,77,84,3,Medium/ Medium,85,Croatia,4,LM
+A. Lacazette,27,€45M,€180K,88,64,81,75,59,85,3,High/ High,85,France,4,ST
+A. Sánchez,29,€37.5M,€215K,80,77,86,81,75,87,4,High/ High,85,Chile,4,RW
+M. Škriniar,23,€46.5M,€82K,42,40,70,30,68,59,1,Medium/ High,85,Slovakia,2,LCB
+K. Benzema,30,€37M,€240K,81,75,76,75,62,83,4,Medium/ Low,85,France,4,ST
+W. Szczęsny,28,€32M,€125K,12,12,51,14,36,11,3,Medium/ Medium,85,Poland,1,GK
+Pepe,35,€9M,€57K,46,46,65,56,61,58,4,Medium/ High,85,Portugal,2,RCB
+E. Džeko,32,€30.5M,€115K,89,63,65,79,72,76,3,Medium/ Medium,85,Bosnia Herzegovina,2,ST
+Marco Asensio,22,€54M,€215K,82,82,85,88,82,86,3,High/ Medium,85,Spain,4,RW
+S. Milinković-Savić,23,€50.5M,€73K,80,64,68,80,85,86,2,High/ Medium,85,Serbia,4,CM
+B. Matuidi,31,€26M,€145K,64,75,79,70,77,78,3,High/ High,85,France,2,LM
+Diego Costa,29,€38.5M,€100K,87,65,74,74,52,77,4,High/ Medium,85,Spain,2,LS
+S. Khedira,31,€33M,€160K,72,72,54,78,82,81,3,High/ High,85,Germany,2,RCM
+N. Fekir,24,€50M,€92K,82,83,79,82,75,90,3,High/ Medium,85,France,4,CAM
+Koke,26,€45M,€88K,72,86,71,81,89,82,3,High/ High,85,Spain,3,LM
+K. Manolas,27,€37.5M,€96K,10,27,80,12,61,54,3,Low/ High,85,Greece,2,LCB
+J. Boateng,29,€30M,€115K,34,69,67,58,83,64,4,Medium/ Medium,85,Germany,2,RCB
+R. Nainggolan,30,€35.5M,€105K,75,73,78,86,81,80,3,High/ High,85,Belgium,3,CAM
+Saúl,23,€50.5M,€77K,78,69,74,79,83,83,3,High/ High,85,Spain,3,RCM
+J. Kimmich,23,€40.5M,€92K,66,90,78,69,80,80,3,High/ Low,85,Germany,3,RCM
+Paulinho,29,€37M,€235K,81,64,73,80,80,82,3,High/ High,85,Brazil,3,LDM
+E. Banega,30,€29M,€31K,66,80,68,78,87,84,3,Medium/ Medium,84,Argentina,4,CDM
+M. Depay,24,€42M,€93K,79,79,87,81,74,85,3,High/ Low,84,Netherlands,5,ST
+J. Cuadrado,30,€29.5M,€150K,67,80,89,80,69,90,3,High/ Medium,84,Colombia,5,RAM
+A. Laporte,24,€34M,€135K,45,58,62,47,78,59,2,Medium/ Medium,84,France,2,LCB
+Jorginho,26,€38M,€155K,57,75,75,62,87,82,2,Medium/ Medium,84,Italy,3,CM
+M. Mandžukić,32,€25M,€160K,84,72,67,60,67,76,3,High/ High,84,Croatia,3,ST
+Falcao,32,€25M,€115K,86,55,69,80,58,75,3,High/ Medium,84,Colombia,3,RS
+H. Son,25,€37M,€125K,85,78,88,88,64,88,3,High/ High,84,Korea Republic,4,LM
+Fabinho,24,€34M,€120K,66,79,69,65,78,76,3,Medium/ Medium,84,Brazil,3,CDM
+D. Sánchez,22,€34M,€105K,40,36,72,44,67,63,2,Medium/ High,84,Colombia,2,RCB
+N. Matić,29,€24M,€165K,64,71,52,75,83,80,3,Medium/ High,84,Serbia,3,CDM
+S. de Vrij,26,€31.5M,€88K,25,49,67,60,71,63,3,Medium/ High,84,Netherlands,2,CB
+A. Martial,22,€42.5M,€165K,84,76,88,80,60,87,3,Medium/ Medium,84,France,4,LW
+Willian,29,€30.5M,€175K,77,76,91,81,77,88,3,High/ High,84,Brazil,4,RW
+S. Ruffier,31,€19M,€41K,11,11,45,11,34,12,3,Medium/ Medium,84,France,1,GK
+Sokratis,30,€23M,€140K,44,47,64,48,51,58,3,Medium/ High,84,Greece,2,RCB
+Quaresma,34,€15.5M,€80K,67,92,84,80,75,89,3,High/ Low,84,Portugal,5,RM
+William Carvalho,26,€31.5M,€38K,52,68,49,55,86,80,3,Medium/ Medium,84,Portugal,3,CDM
+K. Schmeichel,31,€19M,€78K,12,18,59,14,46,12,2,Medium/ Medium,84,Denmark,1,GK
+D. Payet,31,€27.5M,€75K,78,87,75,82,80,86,3,High/ Low,84,France,4,CAM
+D. Alli,22,€42.5M,€115K,83,69,73,80,80,83,3,High/ High,84,England,4,LCM
+Raúl Albiol,32,€18M,€88K,27,38,54,53,72,59,3,Low/ High,84,Spain,2,RCB
+A. Di María,30,€29.5M,€125K,72,83,85,77,79,86,4,High/ Medium,84,Argentina,5,RM
+F. Thauvin,25,€39M,€72K,81,83,87,82,76,85,2,High/ Medium,84,France,4,RM
+Bruno Fernandes,23,€40.5M,€22K,73,84,79,88,82,83,2,High/ Medium,84,Portugal,4,LCM
+Sergio Asenjo,29,€24M,€42K,14,24,59,13,39,15,2,Medium/ Medium,84,Spain,1,GK
+A. Barzagli,37,€4.2M,€95K,21,40,61,39,65,64,3,Low/ High,84,Italy,2,CB
+Carvajal,26,€31.5M,€185K,41,83,79,36,71,76,3,High/ High,84,Spain,3,RB
+I. Gündoğan,27,€32M,€175K,73,74,67,73,83,85,3,High/ Medium,84,Germany,4,CM
+L. Hrádecký,28,€22M,€74K,11,11,38,14,20,10,2,Medium/ Medium,84,Finland,1,GK
+K. Walker,28,€24.5M,€165K,51,81,86,69,67,79,3,High/ High,84,England,2,RB
+A. Robben,34,€15.5M,€110K,85,80,83,86,71,89,4,High/ Low,84,Netherlands,4,RM
+A. Gómez,30,€30M,€53K,76,82,94,79,74,89,3,High/ Medium,84,Argentina,4,LS
+A. Witsel,29,€24M,€77K,71,69,67,74,79,78,3,Medium/ Medium,84,Belgium,4,LCM
+A. Lopes,27,€25M,€72K,18,19,63,18,31,15,2,Medium/ Medium,84,Portugal,1,GK
+Illarramendi,28,€31M,€51K,72,68,66,76,82,78,2,Medium/ High,84,Spain,4,RDM
+J. Giménez,23,€34M,€63K,37,47,69,48,58,47,2,Medium/ High,84,Uruguay,2,RCB
+Iago Aspas,30,€30M,€45K,88,80,85,82,64,86,2,High/ High,84,Spain,3,ST
+José Callejón,31,€27.5M,€105K,78,82,88,80,51,82,3,High/ High,84,Spain,3,RM
+M. Perin,25,€29.5M,€105K,11,11,57,17,31,19,2,Medium/ Medium,84,Italy,1,GK
+N. Süle,22,€36.5M,€84K,20,30,52,62,63,42,2,Medium/ Medium,84,Germany,2,CB
+Jonas,34,€16.5M,€25K,88,70,65,85,75,84,3,High/ Medium,84,Brazil,3,ST
+Marquinhos,24,€35.5M,€90K,33,72,73,35,78,59,3,Medium/ Medium,84,Brazil,2,LDM
+Alex Telles,25,€32M,€22K,65,89,84,75,86,82,3,High/ Medium,84,Brazil,3,LB
+B. Leno,26,€27M,€115K,9,9,46,14,40,16,3,Medium/ Medium,84,Germany,1,GK
+K. Kampl,27,€26.5M,€74K,63,72,84,73,79,86,2,High/ High,83,Slovenia,3,LCM
+J. Pickford,24,€25M,€78K,19,17,53,13,55,14,1,Medium/ Medium,83,England,1,GK
+O. Baumann,28,€21M,€42K,11,14,47,13,25,19,2,Medium/ Medium,83,Germany,1,GK
+Q. Promes,26,€30.5M,€28K,86,79,90,83,73,84,2,High/ Low,83,Netherlands,5,RM
+T. Horn,25,€24M,€25K,13,19,45,17,32,20,2,Medium/ Medium,83,Germany,1,GK
+K. Coman,22,€34M,€85K,76,81,95,73,63,88,2,Medium/ Low,83,France,5,LM
+A. Rabiot,23,€33M,€91K,69,70,73,79,83,79,2,High/ Medium,83,France,3,CM
+Marcos Alonso,27,€24M,€130K,68,85,69,77,73,79,2,High/ Low,83,Spain,3,LB
+Nacho Fernández,28,€24.5M,€180K,32,70,70,28,61,55,2,Medium/ High,83,Spain,2,CB
+Neto,28,€21M,€41K,15,11,53,20,41,19,2,Medium/ Medium,83,Brazil,1,GK
+Cesc Fàbregas,31,€22M,€140K,72,85,56,70,89,79,4,High/ Medium,83,Spain,3,CM
+D. Subašić,33,€13M,€70K,10,11,51,14,26,11,3,Medium/ Medium,83,Croatia,1,GK
+K. Strootman,28,€21M,€66K,68,74,65,70,84,75,3,Medium/ High,83,Netherlands,3,CDM
+Josué Chiamulera,26,€22.5M,€43K,38,40,83,41,61,56,1,Medium/ Medium,83,Brazil,2,LCB
+Rui Patrício,30,€16.5M,€74K,12,12,53,11,30,20,3,Medium/ Medium,83,Portugal,1,GK
+J. Draxler,24,€32.5M,€91K,78,83,78,82,79,88,3,Medium/ Medium,83,Germany,4,CM
+R. Fährmann,29,€20M,€38K,11,14,38,9,26,15,2,Medium/ Medium,83,Germany,1,GK
+O. Dembélé,21,€40M,€155K,78,78,93,70,70,90,3,High/ Low,83,France,4,RW
+Lucas Leiva,31,€17.5M,€64K,62,63,67,66,81,77,3,Medium/ High,83,Brazil,3,LDM
+C. Tolisso,23,€34M,€85K,75,67,75,81,86,77,2,High/ Medium,83,France,3,CM
+T. Lemar,22,€35.5M,€64K,75,83,86,76,75,85,3,High/ Medium,83,France,4,LM
+Y. Carrasco,24,€33M,€20K,79,78,89,75,71,88,3,High/ Medium,83,Belgium,4,LM
+Felipe Anderson,25,€31.5M,€110K,71,79,93,84,74,90,3,High/ Medium,83,Brazil,4,LM
+F. Ribéry,35,€11.5M,€72K,74,80,78,71,74,84,4,Medium/ Medium,83,France,5,LM
+Suso,24,€33M,€115K,70,84,83,87,75,88,3,High/ Medium,83,Spain,4,RW
+I. Gueye,28,€21M,€125K,50,60,76,66,72,75,2,Medium/ High,83,Senegal,3,RDM
+Adán,31,€15.5M,€55K,11,12,56,12,43,12,2,Medium/ Medium,83,Spain,1,GK
+Danilo Pereira,26,€27M,€21K,61,50,63,65,79,76,3,Medium/ High,83,Portugal,3,CDM
+Ronaldo Cabrais,26,€28M,€51K,74,83,88,78,82,85,1,High/ Medium,83,Brazil,4,RW
+Gabriel Jesus,21,€41M,€130K,84,66,87,73,66,86,2,High/ High,83,Brazil,4,ST
+S. Gnabry,22,€34.5M,€85K,81,74,92,81,68,87,2,High/ Medium,83,Germany,4,ST
+H. Mkhitaryan,29,€25.5M,€145K,74,77,84,73,71,84,3,Medium/ Medium,83,Armenia,4,RM
+Lucas Moura,25,€31M,€115K,78,75,94,76,74,88,3,High/ Medium,83,Brazil,4,RM
+David Luiz,31,€17.5M,€130K,55,68,59,73,77,66,4,Medium/ Medium,83,Brazil,3,LCB
+Y. Sommer,29,€20M,€35K,13,13,48,12,31,15,3,Medium/ Medium,83,Switzerland,1,GK
+S. Mandanda,33,€13M,€51K,13,14,53,11,28,15,3,Medium/ Medium,83,France,1,GK
+Luiz Gustavo,30,€19M,€63K,48,63,65,73,77,68,3,Medium/ High,83,Brazil,3,LCB
+Anderson Talisca,24,€36.5M,€18K,80,78,77,88,79,82,2,High/ Medium,83,Brazil,4,CAM
+Felipe,29,€20M,€22K,39,45,60,41,67,57,3,Medium/ High,83,Brazil,2,RCB
+Lucas Vázquez,27,€27M,€205K,73,86,84,80,75,82,2,High/ High,83,Spain,4,RW
+Giuliano,28,€26M,€64K,79,77,85,76,79,84,2,High/ Medium,83,Brazil,4,CAM
+J. Stones,24,€28.5M,€125K,29,62,67,38,74,69,2,High/ Medium,83,England,3,RCB
+Juan Mata,30,€24.5M,€160K,78,83,69,72,79,82,3,Medium/ Medium,83,Spain,4,RM
+P. Kimpembe,22,€30.5M,€82K,31,62,75,39,75,58,2,High/ High,83,France,3,LCB
+H. Ziyech,25,€32.5M,€28K,68,84,76,75,89,83,3,High/ High,83,Morocco,4,RAM
+Rodrigo,27,€30.5M,€57K,78,72,88,76,58,82,2,High/ Medium,83,Spain,4,ST
+Oscar,26,€30.5M,€29K,76,74,75,77,82,78,3,Medium/ Medium,83,Brazil,4,LCM
+M. Kovačić,24,€35M,€165K,62,73,84,75,82,88,3,High/ High,83,Croatia,4,LCM
+F. Acerbi,30,€19M,€64K,37,25,65,60,77,65,2,Medium/ Medium,83,Italy,3,CB
+N. Keïta,23,€34M,€120K,74,62,78,73,78,88,2,High/ Medium,83,Guinea,4,CM
+M. Balotelli,27,€27.5M,€55K,85,68,76,79,66,81,4,Medium/ Low,83,Italy,4,LS
+M. Dembélé,30,€24M,€120K,66,65,72,70,80,89,3,Medium/ Medium,83,Belgium,4,CM
+J. Tah,22,€29.5M,€67K,20,35,64,25,69,55,2,Medium/ Medium,83,Germany,2,CB
+L. Bender,29,€20M,€82K,59,69,66,71,74,72,3,High/ High,83,Germany,2,RB
+Allan,27,€26.5M,€87K,72,70,81,66,77,82,2,Medium/ High,83,Brazil,4,RCM
+S. Savić,27,€26M,€67K,34,35,55,31,69,47,2,Medium/ High,83,Montenegro,2,CB
+Kepa,23,€28.5M,€84K,11,25,34,14,36,10,1,Medium/ Medium,83,Spain,1,GK
+Sergi Roberto,26,€26.5M,€170K,63,85,78,66,78,78,3,High/ High,83,Spain,4,RB
+Manu Trigueros,26,€30M,€49K,71,72,68,80,83,80,2,Medium/ Medium,83,Spain,4,RCM
+Gerard Moreno,26,€32M,€53K,83,61,77,77,56,78,1,High/ Medium,83,Spain,4,LS
+B. Dost,29,€26M,€26K,87,38,49,72,37,68,3,Medium/ Medium,83,Netherlands,2,ST
+Louri Beretta,26,€28.5M,€60K,85,56,79,82,47,75,1,High/ Low,83,Brazil,4,ST
+R. Jarstein,33,€13M,€33K,13,18,40,18,34,11,2,Medium/ Medium,83,Norway,1,GK
+D. De Rossi,34,€8M,€80K,50,57,63,72,80,64,3,Medium/ High,83,Italy,2,RDM
+Pepe Reina,35,€6M,€56K,14,11,50,15,22,10,3,Medium/ Medium,83,Spain,1,GK
+T. Werner,22,€34.5M,€70K,87,69,93,67,55,83,3,High/ Medium,83,Germany,3,RW
+Pizzi,28,€25.5M,€22K,76,79,82,78,84,80,3,High/ Medium,83,Portugal,3,LCM
+L. Goretzka,23,€34M,€85K,72,75,84,78,79,81,3,High/ High,83,Germany,3,CM
+Javi Martínez,29,€20M,€94K,43,60,49,62,74,60,3,Medium/ Medium,83,Spain,2,CDM
+K. Glik,30,€19M,€86K,27,29,50,20,59,51,3,Low/ Medium,83,Poland,2,RCB
+G. Sigurðsson,28,€22.5M,€125K,77,86,58,86,80,80,3,High/ High,82,Iceland,3,CAM
+T. Meunier,26,€21M,€87K,76,83,74,78,74,75,2,High/ High,82,Belgium,3,RM
+Gelson Martins,23,€29.5M,€59K,66,81,95,69,55,85,3,High/ Medium,82,Portugal,5,RM
+A. Ramsey,27,€25M,€130K,74,75,64,74,80,81,3,High/ High,82,Wales,3,CAM
+A. Rüdiger,25,€22.5M,€110K,27,68,67,41,72,59,2,Medium/ High,82,Germany,2,CB
+T. Delaney,26,€21.5M,€61K,72,67,76,74,77,73,2,High/ High,82,Denmark,3,LCM
+L. Torreira,22,€25M,€98K,50,74,81,74,77,78,2,Medium/ High,82,Uruguay,3,LCM
+Bartra,27,€21M,€32K,55,55,75,62,78,70,3,High/ Medium,82,Spain,3,CB
+L. Koscielny,32,€12.5M,€115K,32,52,64,47,69,62,3,Medium/ High,82,France,2,CB
+C. Lenglet,23,€26M,€135K,23,36,72,35,69,60,1,Medium/ High,82,France,2,LCB
+Luis Alberto,25,€28.5M,€67K,80,76,77,77,87,86,2,High/ Medium,82,Spain,4,CF
+S. Giovinco,31,€20M,€15K,80,72,88,81,76,86,2,High/ Medium,82,Italy,4,CF
+E. Višća,28,€22.5M,€40K,80,80,90,77,69,82,2,High/ Medium,82,Bosnia Herzegovina,4,RM
+J. Lingard,25,€26.5M,€140K,78,74,84,80,66,83,2,High/ High,82,England,4,CAM
+Pablo Sarabia,26,€26M,€26K,78,86,75,77,77,86,2,High/ Medium,82,Spain,4,RCM
+L. Hernández,22,€25.5M,€53K,42,78,80,47,63,65,1,Medium/ High,82,France,3,LB
+E. Forsberg,26,€26M,€67K,70,84,76,74,69,82,2,Medium/ Medium,82,Sweden,4,LM
+G. Wijnaldum,27,€23M,€130K,70,67,77,71,76,84,3,High/ High,82,Netherlands,4,CAM
+A. Florenzi,27,€20.5M,€73K,70,77,86,82,75,78,3,High/ Medium,82,Italy,4,RB
+Dani García,28,€20M,€33K,51,55,53,58,81,66,2,Medium/ High,82,Spain,3,RCM
+F. Vázquez,29,€21.5M,€27K,74,73,58,84,78,86,2,Medium/ High,82,Argentina,4,LCM
+Willian José,26,€26.5M,€44K,84,54,62,77,50,79,2,Medium/ Low,82,Brazil,4,ST
+S. Nzonzi,29,€17M,€77K,64,59,44,66,77,72,2,Medium/ Medium,82,France,2,CDM
+Jardel,32,€12.5M,€17K,38,46,50,37,53,52,2,Medium/ High,82,Brazil,2,LCB
+F. Fazio,31,€15M,€73K,41,44,36,26,62,48,3,Medium/ Medium,82,Argentina,2,LCB
